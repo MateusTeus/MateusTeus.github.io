@@ -5,8 +5,10 @@ tagline: API RESTful em Java/Spring Boot para consulta e análise de dados de ci
 link: https://github.com/MateusTeus/API_Rest_Brazilian_Cities 
 image: /assets/image/image.png 
 ---
+<link rel="stylesheet" href="{{ '/assets/css/project.css' | relative_url }}"> 
 
-# 🇧🇷 API REST de Cidades Brasileiras (Portfólio Backend)
+
+#  API REST de Cidades Brasileiras (Portfólio Backend)
 
 ## Visão Geral do Projeto
 ### Visão Geral da Documentação
