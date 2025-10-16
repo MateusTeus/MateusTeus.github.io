@@ -25,7 +25,7 @@ permalink: /
 - **Versionamento:** Git, Github, técnica Git Flow
 - **Teste de apis:** Postman, Insomnia
 - **Outras Ferramentas:** Maven, Docker básico
-- **Outras:** Testes unitários (JUnit e Mockito), conhecimento em segurança com Spring Security. 
+- **Outras:** Testes unitários (JUnit e Mockito), conhecimento em segurança com Spring Security 
 
 ---
 

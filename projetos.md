@@ -1,7 +1,7 @@
 ---
 layout: projeto 
 title: Projetos
-tagline: Clique em um card para saber mais e ver o código.
+tagline: Clique em um card para saber mais e ver o código
 link: https://github.com/seu-usuario/api-rest-brazilian-cities 
 image: /assets/image/image.png 
 ---
