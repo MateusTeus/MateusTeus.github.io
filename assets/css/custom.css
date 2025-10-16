@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(to bottom, 
+                 #F0F8FF, 
+                #F5FFFA
+                ) !important; 
+    min-height: 100vh;
+    margin: 0; 
+}
+
+.wrapper, .site-header, .site-footer, .post-content, .page-content {
+    background-color: transparent !important;
+}
+
+
+

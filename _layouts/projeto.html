@@ -1,0 +1,22 @@
+---
+layout: default 
+---
+
+<article class="project-details">
+    <header>
+        <h1>{{ page.title }}</h1>
+        <p class="project-tagline">{{ page.tagline }}</p>
+    </header>
+    
+    <div class="project-content">
+        {{ content }} </div>
+
+    {% if page.link %}
+    <p>
+        <a href="{{ page.link }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Ver Projeto/Código</a>
+    </p>
+    {% endif %}
+
+    <hr>
+    <p><a href="{{ '/projetos/' | relative_url }}">← Voltar para a lista de Projetos</a></p>
+</article>
