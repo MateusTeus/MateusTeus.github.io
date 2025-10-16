@@ -12,7 +12,13 @@ permalink: /
 
 
 
-#### Bem-vindo ao meu portfólio, aqui eu compartilho meus projetos com o principal foco na área "backend", indo de projetos como APIs rest de diferentes categorias, aplicativo cli, microserviços, sistemas de gestão e análise. 
+#### Bem-vindo ao meu portfólio, aqui compartilho meus projetos com foco principal em desenvolvimento backend, incluindo APIs REST de diferentes categorias, aplicativos CLI, microserviços, além de sistemas de gestão e análise.
+
+#### Em breve, estarei postando conteúdos sobre a vasta área da tecnologia, que ficarão disponíveis na aba “Artigos”.
+
+#### Visite meu [LinkedIn](https://www.linkedin.com/in/mateus-henrique-172599236/) lá você encontrará outros projetos que ainda não publiquei na seção “Projetos”.
+
+#### Email: mateusteccruz@gmail.com
 
 ---
 
